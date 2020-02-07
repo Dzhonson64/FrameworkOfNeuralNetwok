@@ -1,2 +1,2 @@
 # FrameworkOfNeuralNetwok
-The framework have been developing for other models neural Netwok. This project created ONLY for training.
+The framework has been developing for other models neural Netwok. This project has created ONLY for training.
