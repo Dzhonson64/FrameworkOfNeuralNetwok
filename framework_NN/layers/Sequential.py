@@ -1,6 +1,6 @@
 # Слой для последовательно хранения других слоёв
 
-from layers import Layer
+from layers.Layer import Layer
 
 class Sequential(Layer):
 
